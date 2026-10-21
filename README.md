@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Auth0 Login Demo
 
 A small React application that uses Auth0 for login, displays the authenticated
@@ -46,3 +47,6 @@ The app redirects back to its current origin after login and logout.
 After signing in, use **Get Token** to retrieve an access token. The token is
 printed to the browser developer console; treat it as a credential and do not
 share it.
+=======
+# Oauth
+>>>>>>> 2083338455a8cbbced3443b13328c5006230e062
